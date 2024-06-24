@@ -1,2 +1,2 @@
 # snake-game
-Python
+Uses pygame
